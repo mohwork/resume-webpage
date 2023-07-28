@@ -416,6 +416,8 @@ body>footer .copyrights {
   height: 100%;
   z-index: 9999;
   background: #fff;
+  background-color: #212121;
+
 }
 
 .preloader-animation {
