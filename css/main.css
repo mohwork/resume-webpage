@@ -934,6 +934,11 @@ body > footer .copyrights {
   margin-bottom: 10px;
 }
 
+.about-me p{
+  direction: rtl;
+  text-align: right;
+}
+
 .start-page-content .page-content .download-resume {
   margin-top: 15px;
 }
